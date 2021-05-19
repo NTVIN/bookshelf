@@ -1,0 +1,8 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../../../../:\Users\assvi\OneDrive - Bildungszentrum Zürichsee\2. Jahr\M133_Webapplication_SessionHandling\BookShelf\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
